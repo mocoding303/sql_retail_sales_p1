@@ -209,3 +209,5 @@ SELECT shift,
        count(*) num_orders
 from hourly_sale
 group by 1
+	
+END OF PROJECT 
